@@ -12,7 +12,11 @@ A full-stack **cloud-native food ordering platform** built with **React + Vite**
 | ⚙️ **Backend** | [https://github.com/Dhekshath1510/cloud-kitchen-backend.git](https://github.com/Dhekshath1510/cloud-kitchen-backend.git) |
 
 ---
+## Azure App Link
 
+** App ** : [https://brave-plant-05d91e300.7.azurestaticapps.net/](https://brave-plant-05d91e300.7.azurestaticapps.net/)
+
+---
 ## 🏗️ Project Architecture
 
 ```
